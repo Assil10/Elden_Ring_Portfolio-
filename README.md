@@ -1,11 +1,52 @@
-<div align="center">
+# Elden Ring Portfolio - Tarnished Developer
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A fully interactive, visually stunning portfolio website inspired by the dark fantasy aesthetic of **Elden Ring**.
 
-  <h1>Built with AI Studio</h2>
+## ⚔️ Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Cinematic Hero Section:** Fullscreen landing with god-rays, fog effects, and a stylized Elden Ring logo.
+- **Lore-Driven Journey:** An "About Me" section styled as ancient parchment chapters.
+- **Attribute Power System:** Skills displayed as character attributes (Strength, Intelligence, etc.) with glowing progress bars.
+- **Legacy Dungeons:** Project showcase with "Boss Encounter" cards featuring hover aura effects.
+- **The Arsenal:** Tech stack displayed as weapon cards with metallic shine animations.
+- **Site of Grace:** A mystical contact section with animated wispy particles and golden light.
+- **Immersive UI:** Custom loading screen, cursor glow effect, and smooth parallax transitions.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Tech Stack
 
-</div>
+- **React 19**
+- **Tailwind CSS 4**
+- **Framer Motion (motion/react)**
+- **Lucide React**
+- **Vite**
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Assil10/Elden-Ring-Portfolio-.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 📜 License
+
+This project is licensed under the Apache-2.0 License.
+
+---
+*Created by Assil Khaldi - Tarnished of the Lands Between*
